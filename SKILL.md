@@ -36,8 +36,6 @@ Files
 * prompts/system_prompt.txt: Core DIY assistant instructions
 * workflows/workflow.json: Workflow definition
 * data/projects.json: Embedded DIY project mappings
-* assets/icon.png: Skill icon
-* assets/banner.png: Skill banner
 
 Prompts / Triggers
 
