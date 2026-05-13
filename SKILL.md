@@ -1,10 +1,9 @@
-
-
-⸻
+---
 
 name: diy-surprise-builder
 description: Discover fun DIY projects from everyday products using local AI
 metadata:
+
 homepage: https://github.com/zaid-alibadi/diy-surprise-builder
 
 DIY Surprise Builder
