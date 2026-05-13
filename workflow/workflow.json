@@ -1,0 +1,20 @@
+{
+  "steps": [
+    {
+      "type": "vision_classification",
+      "input": "camera"
+    },
+    {
+      "type": "product_detection"
+    },
+    {
+      "type": "project_retrieval"
+    },
+    {
+      "type": "slm_generation"
+    },
+    {
+      "type": "recommendation_ranking"
+    }
+  ]
+}
