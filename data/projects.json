@@ -1,0 +1,37 @@
+[
+  {
+    "anchor": "tomato cage",
+    "project": "DIY Christmas Tree",
+    "season": "Christmas",
+    "difficulty": "Easy",
+    "time_required": "20 minutes",
+    "required_items": [
+      "string lights",
+      "zip ties",
+      "extension cord",
+      "lawn stakes"
+    ],
+    "description": "Turn a tomato cage into a glowing outdoor Christmas tree."
+  },
+  {
+    "anchor": "pool noodle",
+    "project": "Garage Wall Protector",
+    "difficulty": "Easy",
+    "required_items": [
+      "adhesive strips",
+      "mounting tape"
+    ],
+    "description": "Protect car doors from garage wall damage."
+  },
+  {
+    "anchor": "wood pallet",
+    "project": "Vertical Garden",
+    "difficulty": "Medium",
+    "required_items": [
+      "landscape fabric",
+      "soil",
+      "herbs"
+    ],
+    "description": "Create a rustic vertical herb garden."
+  }
+]
