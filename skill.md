@@ -9,7 +9,6 @@ homepage: https://github.com/zaid-alibadi/diy-surprise-builder
 ---
 
 # DIY Surprise Builder
-
 Discover creative DIY project ideas using ordinary products.
 
 Examples:
@@ -21,7 +20,6 @@ Examples:
 - Wooden pallet -> Vertical garden
 
 ## Prompts
-
 - What can I build with this?
 
 - Give me a DIY idea
@@ -33,7 +31,6 @@ Examples:
 - Show fun project ideas
 
 ## Instructions
-
 Use local vision understanding to identify products and materials.
 
 Suggest:
