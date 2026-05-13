@@ -1,5 +1,3 @@
-Here’s a strong SKILL.md file you can place in the root of the repo.
-
 DIY Surprise Builder
 
 Overview
