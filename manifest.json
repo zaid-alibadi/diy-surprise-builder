@@ -1,0 +1,9 @@
+{
+  "name": "DIY Surprise Builder",
+  "description": "Discover fun DIY projects from ordinary products using local AI.",
+  "version": "1.0.0",
+  "author": "Zaid Alibadi",
+  "category": "Home Improvement",
+  "icon": "assets/icon.png",
+  "entry_workflow": "workflows/workflow.json"
+}
